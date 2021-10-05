@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namhn89
+- 👋 Hi, I’m @namnguyen892000
 - 👀 I’m interested in Machine Learning, Computer Vision and Competitive Programing. 
 - 🌱 I’m currently learning Fundamental Quantitative Research Method. 
 - 💞️ I’m looking to collaborate on Computer Vision Research
